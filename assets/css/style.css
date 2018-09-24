@@ -81,6 +81,8 @@ Author: yaminncco
     color: #6195FF;
 }
  .white-text {
+    margin: auto;
+    width: 50%;
     color: #FFF;
 }
  ::-moz-selection {
